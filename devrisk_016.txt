@@ -1,0 +1,29 @@
+Hello [firstname,fallback=there],
+
+ISO 14971:2019 and ICH Q9 in plain, usable steps.
+
+Device and Pharma Patient / User Risk Management
+Presenter: John E. Lincoln
+Date: Nov 13, 2026, 01:00 PM EST
+Duration: 90 minutes
+
+Highlights:
+- ISO 14971:2019: Key changes from 2007 and QMS-wide implications
+- ICH Q9: Pharma risk management expectations
+- Hazard analysis: Hazardous conditions and documentation that stands audit
+- FMECA & FTA: Suggested templates for design, process, and use risk
+- Living document: Use the file for CAPA, training, and validation priority
+
+View details: https://conferencepanel.com/conference/device-and-pharma-patient-user-risk-management
+
+Who benefits: QA, RA, R&D, engineering, production, and senior leaders in devices, drugs, and biologics.
+
+Questions? Reply to this email or call +1-(877) 629-3710.
+
+Regards,
+Conference Panel
+
+Conference Panel, 1 Corporate place suite 120, Piscataway, NJ 08854, USA
+cs@conferencepanel.com | +1-(877) 629-3710
+
+Unsubscribe: <unsubscribe>Unsubscribe</unsubscribe>

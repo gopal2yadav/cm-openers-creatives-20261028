@@ -1,0 +1,29 @@
+Hello [firstname,fallback=there],
+
+Record summarization, gap checks, and query support — live session.
+
+AI in Action: Practical Tools for HIM Efficiency in Coding and CDI
+Presenter: Dawson Ballard
+Date: Oct 29, 2026, 01:00 PM EST
+Duration: 60 minutes
+
+Highlights:
+- AI fundamentals for HIM: What generative AI can and cannot do in coding/CDI
+- Coding use cases: Summarization, research support, prioritization, query drafting
+- CDI applications: Documentation gaps, clinical evidence, provider communication
+- Prompting & validation: Keep humans in the loop with clear checks
+- Governance: Privacy, bias, compliance, and measuring value
+
+View details: https://conferencepanel.com/conference/ai-in-action-practical-tools-for-him-efficiency-in-coding-and-cdi
+
+Who benefits: HIM directors, coding professionals, CDI specialists, revenue cycle and compliance teams.
+
+Questions? Reply to this email or call +1-(877) 629-3710.
+
+Regards,
+Conference Panel
+
+Conference Panel, 1 Corporate place suite 120, Piscataway, NJ 08854, USA
+cs@conferencepanel.com | +1-(877) 629-3710
+
+Unsubscribe: <unsubscribe>Unsubscribe</unsubscribe>

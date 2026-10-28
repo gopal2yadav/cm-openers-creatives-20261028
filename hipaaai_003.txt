@@ -1,0 +1,29 @@
+Hello [firstname,fallback=there],
+
+Due diligence for covered entities and business associates.
+
+AI-Embedded Software Risks for HIPAA-Regulated Entities
+Presenter: Paul R. Hales
+Date: Nov 12, 2026, 01:00 PM EST
+Duration: 60 minutes
+
+Highlights:
+- Common AI-embedded apps: Where PHI can be captured outside “healthcare” tools
+- Vendor contracts: Language that increases HIPAA risk
+- BAAs & due diligence: When a business associate agreement is required
+- Risk spotting: Questions to ask before rolling out AI features
+- Breach avoidance: Keep helpful tools from becoming liability
+
+View details: https://conferencepanel.com/conference/ai-embedded-software-risks-for-hipaa-regulated-entities
+
+Who benefits: HIPAA privacy/security officers, practice managers, HIT leads, risk managers, counsel for CEs and BAs.
+
+Questions? Reply to this email or call +1-(877) 629-3710.
+
+Regards,
+Conference Panel
+
+Conference Panel, 1 Corporate place suite 120, Piscataway, NJ 08854, USA
+cs@conferencepanel.com | +1-(877) 629-3710
+
+Unsubscribe: <unsubscribe>Unsubscribe</unsubscribe>
